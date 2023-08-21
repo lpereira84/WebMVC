@@ -1,0 +1,7 @@
+C:\Users\lpere\Desktop\SENAI\Backend\MVC\LHPet\bin\Release\net8.0\publish\LHPet.exe
+C:\Users\lpere\Desktop\SENAI\Backend\MVC\LHPet\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\lpere\Desktop\SENAI\Backend\MVC\LHPet\bin\Release\net8.0\publish\appsettings.json
+C:\Users\lpere\Desktop\SENAI\Backend\MVC\LHPet\bin\Release\net8.0\publish\LHPet.dll
+C:\Users\lpere\Desktop\SENAI\Backend\MVC\LHPet\bin\Release\net8.0\publish\LHPet.deps.json
+C:\Users\lpere\Desktop\SENAI\Backend\MVC\LHPet\bin\Release\net8.0\publish\LHPet.runtimeconfig.json
+C:\Users\lpere\Desktop\SENAI\Backend\MVC\LHPet\bin\Release\net8.0\publish\LHPet.pdb
